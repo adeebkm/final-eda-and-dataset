@@ -18,7 +18,7 @@ This is a web interface for the movie recommendation system, allowing users to g
 ## How It Works
 
 The application has a Flask backend that integrates with the movie recommendation system. The frontend is built with HTML, CSS, and vanilla JavaScript, utilizing Bootstrap for styling.
-
+ 
 ### Key Components:
 
 1. **Backend (Flask)**:
