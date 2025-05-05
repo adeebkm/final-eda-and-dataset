@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System by us
 
 A comprehensive movie recommendation system that combines content-based filtering, collaborative filtering with sentiment analysis, and a hybrid approach to provide personalized movie recommendations.
 
